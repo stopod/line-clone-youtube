@@ -1,4 +1,4 @@
-#勉強用
+# 勉強用
 下記を丸パクリです
 https://www.youtube.com/watch?v=Js9BsBsczE8
 
