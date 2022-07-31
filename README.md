@@ -1,3 +1,7 @@
+#勉強用
+下記を丸パクリです
+https://www.youtube.com/watch?v=Js9BsBsczE8
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
