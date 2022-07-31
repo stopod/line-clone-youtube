@@ -2,9 +2,9 @@
 下記を丸パクリです  
 https://www.youtube.com/watch?v=Js9BsBsczE8
 
-google認証とClout Firestoreとの読み込み・書き込み機能をもった
-LINE風チャットwebアプリケーション
-NoSQLに慣れないなぁ
+google認証とClout Firestoreとの読み込み・書き込み機能をもった  
+LINE風チャットwebアプリケーション  
+NoSQLに慣れないなぁ  
 https://firebase.google.com/docs/firestore/data-model?hl=ja
 
 # Getting Started with Create React App
