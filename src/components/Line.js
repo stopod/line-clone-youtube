@@ -4,7 +4,7 @@ import { auth, db } from '../firebase';
 import SendMessage from './SendMessage';
 
 function Line() {
-  const [ messages, setMessages ] = useState([]);
+  const [messages, setMessages] = useState([]);
   useEffect(() => {
     db.collection('messages')
     .orderBy('createdAt')

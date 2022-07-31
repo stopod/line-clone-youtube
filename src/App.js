@@ -1,7 +1,7 @@
 import './App.css';
 import SignIn from './components/SignIn';
 import { useAuthState } from 'react-firebase-hooks/auth';
-import { auth } from './firebase.js'
+import { auth } from './firebase';
 import Line from './components/Line';
 
 function App() {
