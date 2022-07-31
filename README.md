@@ -1,5 +1,5 @@
 # 勉強用
-下記を丸パクリです
+下記を丸パクリです  
 https://www.youtube.com/watch?v=Js9BsBsczE8
 
 google認証とClout Firestoreとの読み込み・書き込み機能をもった
